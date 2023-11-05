@@ -1,0 +1,7 @@
+venv
+key.json
+__pycache__
+django_mongo_firebase/__pycache__
+api/__pycache__
+api/migrations
+.env

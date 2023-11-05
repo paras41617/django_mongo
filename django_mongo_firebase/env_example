@@ -1,0 +1,4 @@
+DEBUG=True
+SECRET_KEY=my_secret_key
+JWT_SECRET=my_jwt_secret
+MONGO_URL=my_mongo_url
